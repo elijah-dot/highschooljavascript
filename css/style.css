@@ -1,0 +1,24 @@
+
+.first{position: relative;}
+.first .overlay{background-color: black;
+                 height: 100%; 
+                 width: 75%; 
+                margin-left: 12%;  
+                 position: absolute;top: 0;
+                opacity: 40%;
+                }
+.first img{margin-left: 12%;}
+.first .navbar{display: flex;}
+.first .navbar table{margin-left: 12%;
+                     padding: 2%;
+                     justify-content: space-between;
+                     background-color: rgb(40, 204, 40);
+                     width: 75%;
+                     color: ivory;
+                     font-size: x-large ;
+                     
+
+}
+    
+
+
