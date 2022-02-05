@@ -19,13 +19,20 @@
                      
 
 }
-.two{height: 100%;
+.two{       height: 100%;
             width: 75%;
             border: solid black;
             margin-left: 12%;
 
 
 }
+.two .top{background-color: rgb(40, 204, 40);
+          padding: 1%;
+
+
+
+}
+.two .top h2{color: aliceblue;}
     
 
 
