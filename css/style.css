@@ -19,13 +19,24 @@
                      
 
 }
-.two{       height: 100%;
+.two{       height: 100%;                      
             width: 75%;
             border: solid black;
             margin-left: 12%;
+            background-color: gold;
 
 
 }
+.two button{padding:2%;
+            margin: 4%;
+            width: 10%;
+            height: 5%;
+            border-radius: 10px;
+            
+
+
+}
+.two button:hover{background-color: greenyellow;}
 .two .top{background-color: rgb(40, 204, 40);
           padding: 1%;
 
@@ -33,16 +44,30 @@
 
 }
 .two .top h2{color: aliceblue;}
-.three{       height: 100%;
-    width: 75%;
-    border: solid black;
-    margin-left: 12%;}
+.three{ height: 100%;
+        width: 75%;
+        border: solid black;
+         margin-left: 12%;
+        background-color:  ;
+        }
 .three .topictwo{background-color:rgb(40, 204, 40) ;
                padding: 1%; 
                justify-content: space-between;
                
             
             }
+.container{
+           height: 100%;                      
+           width: 75%;
+           margin-left: 12%;
+           background-size: cover;
+     
+     
+
+
+
+
+}
     
 
 
