@@ -36,7 +36,8 @@
 
 
 }
-.two button:hover{background-color: greenyellow;}
+.two button:hover{background-color:blue;}
+.two .quizone input:checked{background-color:green;}
 .two .top{background-color: rgb(40, 204, 40);
           padding: 1%;
 
@@ -65,6 +66,16 @@
      
 
 
+
+
+}
+
+.three button{padding:2%;
+    margin: 4%;
+    width: 10%;
+    height: 5%;
+    border-radius: 10px;
+    
 
 
 }
