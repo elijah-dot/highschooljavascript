@@ -27,6 +27,13 @@
 
 
 }
+.two  h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;}
+.two ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
 .two button{padding:2%;
             margin: 4%;
             width: 10%;
@@ -57,6 +64,14 @@
                
             
             }
+ 
+.three  h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;}
+.three ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}           
 .container{
            height: 100%;                      
            width: 75%;
