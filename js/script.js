@@ -1,4 +1,4 @@
-
+prompt("name");
 
 var pos = 0; top,  two, choice, choices, chA, chB, chC, chD, correct = 0;
 var questions =  [

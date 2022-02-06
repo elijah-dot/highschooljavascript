@@ -43,7 +43,15 @@
 
 
 }
-.two button:hover{background-color:blue;}
+.two button:hover{background-color: green;
+                   color: azure;
+                    font-size: x-large;
+}
+.two .tape:hover{background-color: red; 
+                  color: azure;
+                font-size: x-large;
+
+}
 .two .quizone input:checked{background-color:green;}
 .two .top{background-color: rgb(40, 204, 40);
           padding: 1%;
@@ -56,7 +64,7 @@
         width: 75%;
         border: solid black;
          margin-left: 12%;
-        background-color:  ;
+        
         }
 .three .topictwo{background-color:rgb(40, 204, 40) ;
                padding: 1%; 
@@ -94,6 +102,13 @@
 
 
 }
-    
+ .three .tape:hover{background-color: red;
+                    color: azure;
+                    font-size: x-large;
+} 
+ .three button:hover{background-color: green;
+                     color: azure;
+                     font-size: x-large;
+}  
 
 
